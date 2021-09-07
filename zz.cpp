@@ -1,5 +1,7 @@
 #incldue<Stdio.h>
 int main(){
-	printf("¾È³ç ¼¼»ó¾Æ:");
+	printf("hello:");
+	printf("hello:");
+	printf("hello:");
 	return 0;
 }
